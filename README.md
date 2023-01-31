@@ -16,11 +16,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### 🕐 Minha atividade
-
-<div align="center">
-  <a href="https://discord.com/users/508721349406228490"> 
-  <img height="135em" src="https://lanyard.cnrad.dev/api/508721349406228490?idleMessage=oi :)"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B2D6&height=120&section=footer"/>
