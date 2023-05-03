@@ -6,7 +6,7 @@ Sou um desenvolvedor Python e Front-end que ama criar soluções para os problem
 
 ## Sobre mim
 
-- 💻 Eu trabalho atualmente como desenvolvedor de software.
+- 💻 Eu trabalho atualmente como desenvolvedor Front-end.
 - 🌱 Atualmente estou aprendendo mais sobre tecnologias de desenvolvimento web.
 - 📫 Você pode entrar em contato comigo através do meu [Instagram](https://www.instagram.com/fabriciotf_).
 
