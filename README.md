@@ -17,18 +17,6 @@ Sou um desenvolvedor Python e Front-end que ama criar soluções para os problem
 - CSS
 - JavaScript
 
-## Projetos
-
-- [Controle de Estoque](https://github.com/FabricioFacco/ControleDeEstoque-Python) - Pequeno sistema de controle de estoque usando python.
-
-## Interesses
-
-Além do desenvolvimento de software, também me interesso por:
-
-- 🚴‍♂️ Ciclismo
-- 📚 Leitura
-- 🎸 Música
-
 ## Estatísticas
 
 [![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=FabricioFacco&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
