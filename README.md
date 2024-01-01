@@ -2,20 +2,16 @@
 
 # Olá, eu sou Fabricio Facco! 👋
 
-Sou um desenvolvedor Python e Front-end que ama criar soluções para os problemas que encontro.
+Sou um desenvolvedor Python que ama criar soluções para os problemas que encontro.
 
 ## Sobre mim
 
-- 💻 Eu estou estudando atualmente linguagens Front-end.
-- 🌱 Atualmente estou aprendendo mais sobre tecnologias de desenvolvimento web.
+- 🌱 Atualmente estou aprendendo mais sobre tecnologias de desenvolvimento.
 - 📫 Você pode entrar em contato comigo através do meu [Instagram](https://www.instagram.com/fabriciotf_).
 
 ## Habilidades
 
 - Python
-- HTML
-- CSS
-- JavaScript
 
 ## Estatísticas
 
