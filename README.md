@@ -1,6 +1,6 @@
 
 
-# Olá, eu sou Fabricio Facco! 👋
+# Olá, eu sou Fabricio!
 
 Sou um desenvolvedor Python.
 
