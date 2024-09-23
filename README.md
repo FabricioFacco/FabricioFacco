@@ -2,7 +2,7 @@
 
 # Olá, eu sou Fabricio!
 
-Sou um desenvolvedor Python.
+Sou um desenvolvedor.?
 
 ## Sobre mim
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor Python.
 
 ## Habilidades
 
-- Python
+- ?
 
 ## Estatísticas
 
